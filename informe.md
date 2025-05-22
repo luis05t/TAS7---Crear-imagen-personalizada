@@ -124,20 +124,17 @@ A continuación se presentan las evidencias visuales del correcto funcionamiento
 
 * El contenedor del frontend se ejecuta correctamente en el puerto 8080 mediante NGINX:
 
-![Termina](./Imagenes/1.PNG)
+![image](https://github.com/user-attachments/assets/81190040-d617-4d97-928c-39f246765495)
 
 * La aplicación React (suda-frontend-s6) carga exitosamente y accede al backend simulado:
 
-![Termina](./Imagenes/2.PNG)
+
 
 * El backend simulado (mockAPI) se encuentra activo en el puerto 3000:
 
-![Termina](./Imagenes/3.PNG)
 
 * Y al final se puede ver la imgen creada.
 
-![Termina](./Imagenes/4.PNG)
-![image](https://github.com/user-attachments/assets/082bce83-919c-489b-bfa0-ac28fb8770ac)
 
 
 ### 10. Audio
