@@ -128,13 +128,14 @@ A continuación se presentan las evidencias visuales del correcto funcionamiento
 
 * La aplicación React (suda-frontend-s6) carga exitosamente y accede al backend simulado:
 
-
+![image](https://github.com/user-attachments/assets/1725edda-0238-4808-abeb-ce1a3bee02ce)
 
 * El backend simulado (mockAPI) se encuentra activo en el puerto 3000:
-
+![image](https://github.com/user-attachments/assets/371ee106-dc01-4382-a7d9-479aaf0344a6)
 
 * Y al final se puede ver la imgen creada.
 
+![image](https://github.com/user-attachments/assets/775ada3d-c290-45a9-a382-d95360fdf039)
 
 
 ### 10. Audio
