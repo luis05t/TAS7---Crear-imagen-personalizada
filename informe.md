@@ -137,6 +137,9 @@ A continuación se presentan las evidencias visuales del correcto funcionamiento
 * Y al final se puede ver la imgen creada.
 
 ![Termina](./Imagenes/4.PNG)
+![image](https://github.com/user-attachments/assets/082bce83-919c-489b-bfa0-ac28fb8770ac)
+
+
 ### 10. Audio
 Link: https://voca.ro/17E1VR8WprBK 
 ### 11 Bibliografia
